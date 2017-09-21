@@ -1,1 +1,27 @@
-{"array":{"data":{"loc1":[{"name":"Pune","lat":"18.5204","long":"73.8567","address":"Pune"}],"loc2":[{"name":"Amravati","lat":"20.937424","long":"77.779549","address":"Amravati"}],"loc3":[{"name":"Mumbai","lat":"19.228825","long":"72.854118","address":"pune"}]}}}
+{
+"data":{
+ "loc1":[
+          {"name":"Pune",
+            "lat":"18.5204",
+            "long":"73.8567",
+             "address":"Pune"
+}
+],
+"loc2":[
+        {
+          "name":"Amravati",
+          "lat":"20.937424",
+          "long":"77.779549",
+          "address":"Amravati"
+        }
+],
+  "loc3":[
+    {
+      "name":"Mumbai",
+      "lat":"19.228825",
+      "long":"72.854118",
+      "address":"pune"
+    }
+  ]
+}
+}
